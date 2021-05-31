@@ -1,7 +1,7 @@
 
 <h1>Supapong Sakulkoo</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dooddyfire&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=dooddyfire&theme=onedark)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooddyfire&show_icons=true&theme=radical)
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
