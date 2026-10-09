@@ -128,9 +128,17 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 | **ASP.NET Visual Tools** | Developer tooling for ASP.NET workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.aspnet-visual-tools) |
 | **API Breakage Radar** | Tools for identifying and monitoring potential API compatibility changes. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.api-breakage-radar) |
 
-### 🧱 WordPress & Services
+### 🧱 WordPress Plugins
 
-- **WordPress.org Plugin Publisher:** WooCommerce payment notification plugin and Elementor addon. [Plugin profile / links](YOUR_WORDPRESS_ORG_PROFILE_URL)
+| Plugin | What it does | Link |
+| --- | --- | --- |
+| **PixelcraftDev Confirm Payment for WooCommerce** | Bank transfer payment confirmation with slip upload, PromptPay QR, admin approval, and email notifications. **50+ active installations · 5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-confirm-payment-for-woocommerce/) |
+| **PixelcraftDev Addons for Elementor (Lite)** | Elementor widgets including Social Share with LINE, Easy Card, Image Popup, Accordion, and Dual Button. **5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-addons-for-elementor-lite/) |
+
+Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpress.org/superauu/)
+
+### 🛎️ Services
+
 - **API Development & Services:** Custom APIs, data integrations, operations, and maintenance. [Learn more](https://supapongai.com/)
 - **Software Maintenance & Consultation:** Technical support, system architecture, and long-term maintenance for organizations and businesses.
 
