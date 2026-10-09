@@ -12,7 +12,7 @@
 [![LINE](https://img.shields.io/badge/LINE-%40pixelcraftdev-06C755?style=for-the-badge&logo=line&logoColor=white)](https://line.me/R/ti/p/%40pixelcraftdev)
 [![Chrome](https://img.shields.io/badge/CHROME-SweetieCinema-E6AF4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/sweetiecinema-for-youtube/)
 
-<img src="./assets/award.svg?v=3" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Fastwork Top Seller" />
+<img src="./assets/award.svg?v=4" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Ahrefs Certified Specialist, Fastwork Top Seller" />
 
 **`FULL-STACK DEVELOPMENT`** · **`SOFTWARE ARCHITECTURE`** · **`WORDPRESS`** · **`DEVELOPER TOOLS`**
 
@@ -158,12 +158,19 @@ Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpr
 | **Software & Technical Architecture Consultant** | Public- and private-sector organizations |
 | **Full-Stack / WordPress Developer** | Independent projects, consulting, and client solutions |
 
-## 🥇 Recognition & Certifications
+## 🥇 Honors & Awards
 
-- 🏆 **Fastwork 1 Million Milestone** — Fastwork award recognizing 1 million in sales on the platform.
+| Award | Issuer | Date | Details |
+| --- | --- | --- | --- |
+| 🏆 **Fastwork 1 Million Milestone Achieved Award** | Fastwork | Feb 2025 | Awarded for surpassing 1 million baht in the web development category, ranked **#1 in the WordPress category**. |
+| 🎓 **Computer Science Honor Student 2018** | Khon Kaen University | Aug 2018 | Computer Science Student Honor, Year 4 (Semester 1/2018). |
+| 🌏 **AYC Student Exchange 2012** | AYC | Dec 2012 | Selected for the AYC student exchange program. |
+
+## 📜 Certifications
+
 - ⭐ **Fastwork Top Seller** — WordPress development specialist.
 - 🎓 **Google Certified Educator** — Google for Education certification.
-
+- 📈 **Certified Specialist in Ahrefs’ Marketing Intelligence Platform** — Ahrefs.
 ## 🎤 Teaching & Speaking
 
 | Platform | Subject |
@@ -174,12 +181,12 @@ Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpr
 
 Available for **technical workshops, onsite/online training, and developer education**.
 
-## 📚 Research & Publications
+## 📚 Publications
 
-1. **NCCIT 2021** — *Thai Food Recognition on LINE Chatbot with YOLOv5 and Faster R-CNN*.
-2. **AUCC 2022** — *Thai Food Recognition and Nutritional Value Estimation via LINE Chatbot Using Deep Learning* (English rendering of the Thai title).
-
-> Publication links and bibliographic details can be added here when available.
+| Title | Venue | Date | Link |
+| --- | --- | --- | --- |
+| **การรู้จำอาหารไทยและคำนวณคุณค่าโภชนาการผ่าน Line Chatbot ด้วยกระบวนการเรียนรู้เชิงลึก**<br /><sub>Thai Food Recognition and Nutritional Value Estimation via LINE Chatbot Using Deep Learning</sub> | AUCC 2022 | Mar 17, 2022 | [ThaiJO](https://ph02.tci-thaijo.org/index.php/RJST/article/view/246266/167876) |
+| **Thai Food Recognition on Line Chatbot with YoloV5 and Faster RCNN** | Proceedings of NCCIT 2021 | May 14, 2021 | [Proceedings (PDF)](https://nccit.net/wp-content/uploads/2021/05/Proceedings-of-NCCIT2021.pdf) |
 
 ## ✨ Let’s Build Something Great
 
