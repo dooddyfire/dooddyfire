@@ -12,7 +12,7 @@
 [![LINE](https://img.shields.io/badge/LINE-%40pixelcraftdev-06C755?style=for-the-badge&logo=line&logoColor=white)](https://line.me/R/ti/p/%40pixelcraftdev)
 [![Chrome](https://img.shields.io/badge/CHROME-SweetieCinema-E6AF4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/sweetiecinema-for-youtube/)
 
-<img src="./assets/award.svg?v=2" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Fastwork Top Seller" />
+<img src="./assets/award.svg?v=3" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Fastwork Top Seller" />
 
 **`FULL-STACK DEVELOPMENT`** · **`SOFTWARE ARCHITECTURE`** · **`WORDPRESS`** · **`DEVELOPER TOOLS`**
 
@@ -160,7 +160,7 @@ Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpr
 
 ## 🥇 Recognition & Certifications
 
-- 🏆 **Fastwork 1 Million Milestone** — Recognition for exceeding THB 1 million in sales on Fastwork.
+- 🏆 **Fastwork 1 Million Milestone** — Fastwork award recognizing 1 million in sales on the platform.
 - ⭐ **Fastwork Top Seller** — WordPress development specialist.
 - 🎓 **Google Certified Educator** — Google for Education certification.
 
