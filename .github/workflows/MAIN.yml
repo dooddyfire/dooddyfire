@@ -23,7 +23,7 @@ jobs:
       - name: Generate GitHub trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: username=dooddyfire&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8&rank=-UNKNOWN
+          options: "username=dooddyfire&theme=onestar&no-bg=true&no-frame=true&row=1&column=4&margin-w=8&margin-h=8&title=Experience,Commits,PullRequest,Issues"
           path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
