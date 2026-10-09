@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://supapongai.com/"><img src="https://supapongai.com/wp-content/uploads/2024/07/SupapongSakulkooProfile.jpg" width="180" alt="Supapong Sakulkoo portrait" /></a>
+<a href="https://supapongai.com/"><img src="https://images.weserv.nl/?url=supapongai.com%2Fwp-content%2Fuploads%2F2024%2F07%2FSupapongSakulkooProfile.jpg&w=360&h=360&fit=cover&mask=circle" width="180" alt="Supapong Sakulkoo portrait" /></a>
 
 <br />
 
@@ -23,7 +23,6 @@
 ## 🏆 GitHub Achievement Gallery
 
 <div align="center">
-
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dooddyfire&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -46,13 +45,12 @@
 
 </div>
 
-> **Setup:** Replace every `YOUR_GITHUB_USERNAME` with your GitHub handle. External statistics providers can temporarily rate-limit or fail; your profile and projects will still display normally.
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" src="https://supapongai.com/wp-content/uploads/2024/07/SupapongSakulkooProfile.jpg" width="155" alt="Supapong Sakulkoo" />
+<img align="right" src="https://images.weserv.nl/?url=supapongai.com%2Fwp-content%2Fuploads%2F2024%2F07%2FSupapongSakulkooProfile.jpg&w=360&h=360&fit=cover&mask=circle" width="155" alt="Supapong Sakulkoo" />
 
 
 I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack developer, WordPress specialist, software consultant, and programming instructor. I work across web applications, browser extensions, developer tools, APIs, technical architecture, and digital products.
