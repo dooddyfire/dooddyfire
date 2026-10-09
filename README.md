@@ -108,8 +108,8 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 
 | Product | Overview | Link |
 | --- | --- | --- |
-| **SweetieSS Discord Application** | Fortune-telling Discord application with a reported reach of over **2 million users**. | [Add link](YOUR_SWEETIESS_DISCORD_URL) |
-| **SweetieSS LINE Official Account** | LINE-based services and community with **2,000+ users/friends**. | [Add link](YOUR_SWEETIESS_LINE_URL) |
+| **SweetieSS Discord Application** | Fortune-telling Discord application with a reported reach of over **2 million users**. | [Add to Discord](https://discord.com/oauth2/authorize?client_id=1154345565279227955&permissions=8&scope=bot) |
+| **SweetieSS LINE Official Account** | LINE-based services and community with **2,000+ users/friends**. | [LINE Official](https://page.line.me/sweetiess) |
 | **Discord Thailand** | Founder of the Thailand-focused Discord community and website. | [discordthailand.com](https://discordthailand.com/) |
 
 ### 🌐 Chrome Extensions
@@ -124,15 +124,24 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 
 | Extension | Focus | Link |
 | --- | --- | --- |
-| **Java Visual Tools** | Developer tooling for Java workflows. | [Add marketplace link](YOUR_JAVA_VISUAL_TOOLS_URL) |
-| **ASP.NET Visual Tools** | Developer tooling for ASP.NET workflows. | [Add marketplace link](YOUR_ASPNET_VISUAL_TOOLS_URL) |
-| **API Breakage Radar** | Tools for identifying and monitoring potential API compatibility changes. | [Add marketplace link](YOUR_API_BREAKAGE_RADAR_URL) |
+| **Java Visual Tools** | Developer tooling for Java workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.java-visual-tools) |
+| **ASP.NET Visual Tools** | Developer tooling for ASP.NET workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.aspnet-visual-tools) |
+| **API Breakage Radar** | Tools for identifying and monitoring potential API compatibility changes. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.api-breakage-radar) |
 
-### 🧱 WordPress & API Services
+### 🧱 WordPress & Services
 
 - **WordPress.org Plugin Publisher:** WooCommerce payment notification plugin and Elementor addon. [Plugin profile / links](YOUR_WORDPRESS_ORG_PROFILE_URL)
 - **API Development & Services:** Custom APIs, data integrations, operations, and maintenance. [Learn more](https://supapongai.com/)
 - **Software Maintenance & Consultation:** Technical support, system architecture, and long-term maintenance for organizations and businesses.
+
+### 🔌 API
+
+| API | What it provides | Link |
+| --- | --- | --- |
+| **Lotto API** | Lottery data for applications and integrations. | [supapongai.com/lottery-api](https://supapongai.com/lottery-api/) |
+| **Football API** | Football data for applications and integrations. | [supapongai.com/football-api](https://supapongai.com/football-api/) |
+| **Gold Price API** | Gold price data for applications and integrations. | [supapongai.com/gold-price-api](https://supapongai.com/gold-price-api/) |
+| **Currency Exchange API** | Currency exchange rates for applications and integrations. | [supapongai.com/currency-exchange-api](https://supapongai.com/currency-exchange-api/) |
 
 ## 💼 Professional Experience
 
