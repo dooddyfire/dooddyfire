@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://github.com/dooddyfire"><img src="./assets/flags/us.svg" width="44" alt="English" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/dooddyfire/dooddyfire/blob/main/README.th.md"><img src="./assets/flags/th.svg" width="44" alt="ภาษาไทย" /></a>
+<br />
+<sub><b>English</b> · <a href="https://github.com/dooddyfire/dooddyfire/blob/main/README.th.md">ภาษาไทย</a></sub>
+
+</div>
+
+<div align="center">
+
 <img src="./assets/hero.svg" width="100%" alt="Supapong Sakulkoo — Full-Stack Developer and Software Architect" />
 
 <br />
