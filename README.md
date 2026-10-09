@@ -114,26 +114,25 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 
 ### 🌐 Chrome Extensions
 
-| Extension | What it does | Link |
-| --- | --- | --- |
-| **SweetieCinema for YouTube** | Adds ambient light, an IMAX-style wall, and cinematic audio modes to YouTube. | [Chrome Web Store](https://chromewebstore.google.com/detail/sweetiecinema-for-youtube/egamglkhnkkdhgjhlpbbhfecnbkcdgkm) · [Website](https://supapongai.com/sweetiecinema-for-youtube/) |
-| **PixelcraftDev SEO Checker** | Inspects on-page SEO, indexability, basic security signals, and WordPress-related checks. | [Chrome Web Store](https://chromewebstore.google.com/detail/cjogepaamccegccccaolofnckkfedcni) |
-| **Security Checker** | Browser-based website security checks. | [Add link](YOUR_SECURITY_CHECKER_URL) |
+|  | Extension | What it does | Link |
+| :---: | --- | --- | --- |
+| <a href="https://chromewebstore.google.com/detail/sweetiecinema-for-youtube/egamglkhnkkdhgjhlpbbhfecnbkcdgkm"><img src="./assets/products/sweetiecinema.jpg" width="56" alt="SweetieCinema for YouTube" /></a> | **SweetieCinema for YouTube** | Adds ambient light, an IMAX-style wall, and cinematic audio modes to YouTube. | [Chrome Web Store](https://chromewebstore.google.com/detail/sweetiecinema-for-youtube/egamglkhnkkdhgjhlpbbhfecnbkcdgkm) · [Website](https://supapongai.com/sweetiecinema-for-youtube/) |
+| <a href="https://chromewebstore.google.com/detail/cjogepaamccegccccaolofnckkfedcni"><img src="./assets/products/seo-checker.jpg" width="56" alt="PixelcraftDev SEO Checker" /></a> | **PixelcraftDev SEO Checker** | Inspects on-page SEO, indexability, basic security signals, and WordPress-related checks. | [Chrome Web Store](https://chromewebstore.google.com/detail/cjogepaamccegccccaolofnckkfedcni) |
 
 ### 🧩 VS Code Extensions
 
-| Extension | Focus | Link |
-| --- | --- | --- |
-| **Java Visual Tools** | Developer tooling for Java workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.java-visual-tools) |
-| **ASP.NET Visual Tools** | Developer tooling for ASP.NET workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.aspnet-visual-tools) |
-| **API Breakage Radar** | Tools for identifying and monitoring potential API compatibility changes. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.api-breakage-radar) |
+|  | Extension | Focus | Link |
+| :---: | --- | --- | --- |
+| <a href="https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.java-visual-tools"><img src="./assets/products/java-visual-tools.png" width="56" alt="Java Visual Tools" /></a> | **Java Visual Tools** | Developer tooling for Java workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.java-visual-tools) |
+| <a href="https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.aspnet-visual-tools"><img src="./assets/products/aspnet-visual-tools.png" width="56" alt="ASP.NET Visual Tools" /></a> | **ASP.NET Visual Tools** | Developer tooling for ASP.NET workflows. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.aspnet-visual-tools) |
+| <a href="https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.api-breakage-radar"><img src="./assets/products/api-breakage-radar.png" width="56" alt="API Breakage Radar" /></a> | **API Breakage Radar** | Tools for identifying and monitoring potential API compatibility changes. | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SupapongSakulkoo.api-breakage-radar) |
 
 ### 🧱 WordPress Plugins
 
-| Plugin | What it does | Link |
-| --- | --- | --- |
-| **PixelcraftDev Confirm Payment for WooCommerce** | Bank transfer payment confirmation with slip upload, PromptPay QR, admin approval, and email notifications. **50+ active installations · 5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-confirm-payment-for-woocommerce/) |
-| **PixelcraftDev Addons for Elementor (Lite)** | Elementor widgets including Social Share with LINE, Easy Card, Image Popup, Accordion, and Dual Button. **5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-addons-for-elementor-lite/) |
+|  | Plugin | What it does | Link |
+| :---: | --- | --- | --- |
+| <a href="https://wordpress.org/plugins/pixelcraftdev-confirm-payment-for-woocommerce/"><img src="./assets/products/confirm-payment.png" width="56" alt="PixelcraftDev Confirm Payment for WooCommerce" /></a> | **PixelcraftDev Confirm Payment for WooCommerce** | Bank transfer payment confirmation with slip upload, PromptPay QR, admin approval, and email notifications. **50+ active installations · 5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-confirm-payment-for-woocommerce/) |
+| <a href="https://wordpress.org/plugins/pixelcraftdev-addons-for-elementor-lite/"><img src="./assets/products/elementor-addons.png" width="56" alt="PixelcraftDev Addons for Elementor (Lite)" /></a> | **PixelcraftDev Addons for Elementor (Lite)** | Elementor widgets including Social Share with LINE, Easy Card, Image Popup, Accordion, and Dual Button. **5★** | [WordPress.org](https://wordpress.org/plugins/pixelcraftdev-addons-for-elementor-lite/) |
 
 Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpress.org/superauu/)
 
