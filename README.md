@@ -1,21 +1,59 @@
 <div align="center">
 
-# 👋 Hi, I'm Supapong Sakulkoo
-### Full-Stack Developer · Software Consultant · Technical Educator
+<img src="./assets/hero.svg" width="100%" alt="Supapong Sakulkoo — Full-Stack Developer and Software Architect" />
 
-**Google Certified Educator** · **WordPress Developer Specialist** · **Fastwork Top Seller**
+<br />
 
-*Building reliable software, sharing practical knowledge, and growing developer communities.*
+<a href="https://supapongai.com/"><img src="https://supapongai.com/wp-content/uploads/2024/07/SupapongSakulkooProfile.jpg" width="180" alt="Supapong Sakulkoo portrait" /></a>
 
-[![Website](https://img.shields.io/badge/Website-supapongai.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/)
+<br />
+
+[![Website](https://img.shields.io/badge/PORTFOLIO-supapongai.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/)
 [![LINE](https://img.shields.io/badge/LINE-%40pixelcraftdev-06C755?style=for-the-badge&logo=line&logoColor=white)](https://line.me/R/ti/p/%40pixelcraftdev)
-[![Email](https://img.shields.io/badge/Let's%20Collaborate-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](https://supapongai.com/)
+[![Chrome](https://img.shields.io/badge/CHROME-SweetieCinema-E6AF4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/sweetiecinema-for-youtube/)
+
+<img src="./assets/award.svg" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Fastwork Top Seller" />
+
+**`FULL-STACK DEVELOPMENT`** · **`SOFTWARE ARCHITECTURE`** · **`WORDPRESS`** · **`DEVELOPER TOOLS`**
 
 </div>
 
 ---
 
+## 🏆 GitHub Achievement Gallery
+
+<div align="center">
+
+<!-- REPLACE YOUR_GITHUB_USERNAME below with your actual GitHub username. These trophies are calculated from real GitHub activity, not manually awarded. -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📈 Developer Dashboard
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D152C&title_color=EAC777&text_color=C6D4EF&icon_color=67B5FF" alt="GitHub activity statistics" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D152C&title_color=EAC777&text_color=C6D4EF&langs_count=7" alt="Top languages from public repositories" />
+
+<br />
+
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D152C&ring=EAC777&fire=F2AE4C&currStreakLabel=67B5FF" alt="GitHub contribution streak" />
+
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D152C&color=9DBAE8&line=EAC777&point=67B5FF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+> **Setup:** Replace every `YOUR_GITHUB_USERNAME` with your GitHub handle. External statistics providers can temporarily rate-limit or fail; your profile and projects will still display normally.
+
+---
+
 ## 🚀 About Me
+
+<img align="right" src="https://supapongai.com/wp-content/uploads/2024/07/SupapongSakulkooProfile.jpg" width="155" alt="Supapong Sakulkoo" />
+
 
 I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack developer, WordPress specialist, software consultant, and programming instructor. I work across web applications, browser extensions, developer tools, APIs, technical architecture, and digital products.
 
@@ -47,9 +85,16 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 
 **Focus:** Full-stack web development · REST APIs · Browser extensions · VS Code extensions · WordPress plugins · Software architecture · Automation · Technical SEO / AEO / GEO
 
-## 📦 Featured Products & Developer Tools
+## 💎 Featured Products & Developer Tools
 
 ### 🌌 SweetieSS Ecosystem
+
+<div align="center">
+  <a href="https://sweetiessofficial.com/"><img src="https://blog.sweetiessofficial.com/wp-content/uploads/2024/07/Sweeties-Animation.gif" width="230" alt="SweetieSS animated mascot" /></a>
+  <br />
+  <sub>Meet Sweetie — the mascot behind the SweetieSS ecosystem</sub>
+</div>
+
 
 | Product | Overview | Link |
 | --- | --- | --- |
@@ -87,7 +132,7 @@ I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack deve
 | **Software & Technical Architecture Consultant** | Public- and private-sector organizations |
 | **Full-Stack / WordPress Developer** | Independent projects, consulting, and client solutions |
 
-## 🏅 Recognition & Certifications
+## 🥇 Recognition & Certifications
 
 - 🏆 **Fastwork 1 Million Milestone** — Recognition for exceeding THB 1 million in sales on Fastwork.
 - ⭐ **Fastwork Top Seller** — WordPress development specialist.
@@ -110,7 +155,7 @@ Available for **technical workshops, onsite/online training, and developer educa
 
 > Publication links and bibliographic details can be added here when available.
 
-## 🤝 Work With Me
+## ✨ Let’s Build Something Great
 
 I help businesses and organizations with **full-stack development, large-scale system design, WordPress development, API services, technical consulting, online business strategy, and SEO / AEO / GEO**.
 
