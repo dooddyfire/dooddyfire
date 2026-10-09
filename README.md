@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<!-- REPLACE YOUR_GITHUB_USERNAME below with your actual GitHub username. These trophies are calculated from real GitHub activity, not manually awarded. -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- REPLACE dooddyfire below with your actual GitHub username. These trophies are calculated from real GitHub activity, not manually awarded. -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dooddyfire&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -34,7 +34,7 @@
 <div align="center">
 
 <img height="185" src="https://github-readme-stats.vercel.app/api?username=dooddyfire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D152C&title_color=EAC777&text_color=C6D4EF&icon_color=67B5FF" alt="GitHub activity statistics" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D152C&title_color=EAC777&text_color=C6D4EF&langs_count=7" alt="Top languages from public repositories" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooddyfire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D152C&title_color=EAC777&text_color=C6D4EF&langs_count=7" alt="Top languages from public repositories" />
 
 <br />
 
@@ -46,7 +46,7 @@
 
 </div>
 
-> **Setup:** Replace every `YOUR_GITHUB_USERNAME` with your GitHub handle. External statistics providers can temporarily rate-limit or fail; your profile and projects will still display normally.
+> **Setup:** Replace every `dooddyfire` with your GitHub handle. External statistics providers can temporarily rate-limit or fail; your profile and projects will still display normally.
 
 ---
 
