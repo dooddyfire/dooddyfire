@@ -12,7 +12,7 @@
 [![LINE](https://img.shields.io/badge/LINE-%40pixelcraftdev-06C755?style=for-the-badge&logo=line&logoColor=white)](https://line.me/R/ti/p/%40pixelcraftdev)
 [![Chrome](https://img.shields.io/badge/CHROME-SweetieCinema-E6AF4B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supapongai.com/sweetiecinema-for-youtube/)
 
-<img src="./assets/award.svg?v=4" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Ahrefs Certified Specialist, Fastwork Top Seller" />
+<img src="./assets/award.svg?v=5" width="100%" alt="Fastwork 1 Million Milestone, Google Certified Educator, Ahrefs Certified Specialist, Fastwork Top Seller" />
 
 **`FULL-STACK DEVELOPMENT`** · **`SOFTWARE ARCHITECTURE`** · **`WORDPRESS`** · **`DEVELOPER TOOLS`**
 
@@ -60,6 +60,20 @@
 
 ---
 
+## 🎮 My Interactive Portfolio
+
+<div align="center">
+
+<a href="https://supapongai.com/portfolio/"><img src="./assets/portfolio-cover.jpg" width="85%" alt="Supapong Sakulkoo Interactive Portfolio" /></a>
+
+**Play My Portfolio in an RPG Game** — explore my About, Works, Skills, and Contact as a side-scrolling adventure with Sweetie.
+
+[![Play My Portfolio](https://img.shields.io/badge/%E2%96%B6%20PLAY%20MY%20PORTFOLIO-RPG%20Game-8B5CF6?style=for-the-badge&logo=gamedeveloper&logoColor=white)](https://supapongai.com/portfolio/)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 <img align="right" src="https://images.weserv.nl/?url=supapongai.com%2Fwp-content%2Fuploads%2F2024%2F07%2FSupapongSakulkooProfile.jpg&w=360&h=360&fit=cover&mask=circle" width="155" alt="Supapong Sakulkoo" />
@@ -67,6 +81,7 @@
 
 I'm **Supapong Sakulkoo (คุณอู๋)**, a Thailand-based full-stack developer, WordPress specialist, software consultant, and programming instructor. I work across web applications, browser extensions, developer tools, APIs, technical architecture, and digital products.
 
+- 🏛️ **Computer Technical Officer (นักวิชาการคอมพิวเตอร์)** at **The Revenue Department of Thailand (กรมสรรพากร)**
 - 🏦 Former **Backend Developer at Bangkok Bank**
 - 🧭 Software and technical architecture consultant for public- and private-sector organizations
 - 🏆 **Fastwork 1 Million Milestone** award recipient; **Fastwork Top Seller**
@@ -154,6 +169,7 @@ Plugin author profile: [profiles.wordpress.org/superauu](https://profiles.wordpr
 
 | Role | Organization / Area |
 | --- | --- |
+| **Computer Technical Officer (นักวิชาการคอมพิวเตอร์)** | **The Revenue Department of Thailand (กรมสรรพากร)** |
 | **Backend Developer (former)** | **Bangkok Bank** |
 | **Software & Technical Architecture Consultant** | Public- and private-sector organizations |
 | **Full-Stack / WordPress Developer** | Independent projects, consulting, and client solutions |
