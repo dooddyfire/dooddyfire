@@ -35,7 +35,7 @@
 
 <br /><br />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./assets/github-trophies.svg" alt="GitHub Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./assets/github-trophies.svg?v=2" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <br />
 
-<img width="98%" src="./assets/github-activity-graph.svg" alt="GitHub contribution activity graph" />
+<img width="98%" src="./assets/github-activity-graph.svg?v=2" alt="GitHub contribution activity graph" />
 
 </div>
 
