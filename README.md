@@ -24,8 +24,18 @@
 
 <div align="center">
 
-<!-- REPLACE dooddyfire below with your actual GitHub username. These trophies are calculated from real GitHub activity, not manually awarded. -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dooddyfire&theme=onestar&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/dooddyfire?tab=achievements&achievement=pull-shark"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="92" alt="GitHub Badge: Pull Shark" /></a>
+<a href="https://github.com/dooddyfire?tab=achievements&achievement=quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="92" alt="GitHub Badge: Quickdraw" /></a>
+
+<br /><br />
+
+[![GitHub followers](https://img.shields.io/github/followers/dooddyfire?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717)](https://github.com/dooddyfire?tab=followers)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdooddyfire&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&color=238636&cacheSeconds=3600)](https://github.com/dooddyfire?tab=repositories)
+[![GitHub profile views](https://komarev.com/ghpvc/?username=dooddyfire&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/dooddyfire)
+
+<br /><br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./assets/github-trophies.svg" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -42,11 +52,11 @@
 
 <br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dooddyfire&bg_color=0D152C&color=9DBAE8&line=EAC777&point=67B5FF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="98%" src="./assets/github-activity-graph.svg" alt="GitHub contribution activity graph" />
 
 </div>
 
-> **Setup:** Replace every `dooddyfire` with your GitHub handle. External statistics providers can temporarily rate-limit or fail; your profile and projects will still display normally.
+> Trophy and activity-graph images are generated in this repository. The public Vercel hosts for those widgets are disabled, so GitHub Actions refreshes the files directly.
 
 ---
 
