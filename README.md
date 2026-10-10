@@ -39,7 +39,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/dooddyfire?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717)](https://github.com/dooddyfire?tab=followers)
 [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdooddyfire&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&color=238636&cacheSeconds=3600)](https://github.com/dooddyfire?tab=repositories)
-[![GitHub profile views](https://komarev.com/ghpvc/?username=dooddyfire&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/dooddyfire)
+![Profile Views](https://komarev.com/ghpvc/?username=dooddyfire)
 
 <br /><br />
 
